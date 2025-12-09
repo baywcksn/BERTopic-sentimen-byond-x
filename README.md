@@ -82,7 +82,7 @@ Visualisasi dilakukan menggunakan:
 
 ## 🚀 Instalasi & Menjalankan Proyek
 
-### 1️⃣ Clone Repository
+### 💻 Clone Repository
 ```bash
 git clone https://github.com/username/repo-name.git
 cd repo-name
